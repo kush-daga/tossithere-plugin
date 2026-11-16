@@ -1,0 +1,9 @@
+{
+  "name": "tossithere",
+  "version": "1.0.0",
+  "description": "Share HTML as a link people comment on, and read every comment back with the markup it points at.",
+  "mcpServers": {
+    "tossithere": { "httpUrl": "https://tossithere.com/mcp" }
+  },
+  "contextFileName": "skills/tossithere/SKILL.md"
+}

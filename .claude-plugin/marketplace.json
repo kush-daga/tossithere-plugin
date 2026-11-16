@@ -1,0 +1,15 @@
+{
+  "name": "tossithere",
+  "owner": {
+    "name": "tossithere",
+    "url": "https://tossithere.com"
+  },
+  "description": "tossithere's plugin: publish HTML as a link people comment on, and read the comments back.",
+  "plugins": [
+    {
+      "name": "tossithere",
+      "source": "./",
+      "description": "Share HTML as a link people comment on, and read every comment back with the markup it points at."
+    }
+  ]
+}
